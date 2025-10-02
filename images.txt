@@ -1,2 +1,2 @@
-ubantu：1.0
+ubuntu
 
