@@ -1,2 +1,2 @@
-registry
+billygoo/tomcat8-jdk8
 
