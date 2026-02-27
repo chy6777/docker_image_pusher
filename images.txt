@@ -1,3 +1,3 @@
-rocketmq:4.9-server
-rocketmq:4.9-broker
-rocketmq:4.9-console
+docker pull foxiswho/rocketmq:server-4.9.2
+foxiswho/rocketmq:broker-4.9.2
+apacherocketmq/rocketmq-console:2.0.0
