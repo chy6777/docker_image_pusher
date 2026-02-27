@@ -1,4 +1,3 @@
-rabbitmq:3.8-management
-
-
-
+rocketmq:4.9-server
+rocketmq:4.9-broker
+rocketmq:4.9-console
