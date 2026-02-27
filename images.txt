@@ -1,1 +1,1 @@
-rocketmq:server-4.9.2
+rocketmq:broker-4.9.2
