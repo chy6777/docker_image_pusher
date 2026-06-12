@@ -1,1 +1,1 @@
-zilliz/attu
+xuxueli/xxl-job-admin
