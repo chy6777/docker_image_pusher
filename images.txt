@@ -1,1 +1,1 @@
-xxl-job-admin
+emqx/emqx:5.8
