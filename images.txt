@@ -1,1 +1,4 @@
-tdengine/tdengine:3.3.2.0	
+python:3.12-slim
+chromadb/chroma:1.5.9
+prom/prometheus:latest	
+nginx:alpine
