@@ -1,1 +1,1 @@
-ollama/ollama:0.40.13
+ollama/ollama:last
