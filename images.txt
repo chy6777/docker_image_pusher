@@ -1,1 +1,1 @@
-ollama/ollama
+ollama/ollama:0.40.13
